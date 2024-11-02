@@ -8,7 +8,7 @@ It is mobile-friendly and is very easy to use.
 ## Overview
 This App is Available at
 
-https://github.com/Anchal07777/PixelCraft
+https://anchal07777.github.io/PixelCraft/
 
 
 On opening, you will get a screen as Follows
