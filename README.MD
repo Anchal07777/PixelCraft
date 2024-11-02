@@ -6,11 +6,10 @@ It is mobile-friendly and is very easy to use.
 ![PixelCraft](icons/logo.png)
 
 ## Overview
-This App is Available at both these locations
+This App is Available at
 
-https://rgab1508.github.io/PixelCraft
+https://github.com/Anchal07777/PixelCraft
 
-https://pixelcraft.web.app
 
 On opening, you will get a screen as Follows
 
@@ -128,7 +127,6 @@ Save Image option is available in the Drop-down on top left corner, It will down
 
 After making all the frames and making necessary changes in Frames Panel, you can export the GIF using option present in Dropdown. The dimensions will be same as that of image.
 
-Thanks to [@eagleloid](https://github.com/eagleloid) for this fix [#44](https://github.com/rgab1508/PixelCraft/pull/44)
 
 ## Color Palette & Transparency
 
@@ -141,17 +139,8 @@ You can select any color by clicking on it.
 You can also set color Transparency to create translucent colors and create color combinations. This property can be used to create complex patterns with greater flexibility.
 **Right click on color to set transparency value between 0 and 1**
 
-Thanks to [@mrfoogles](https://github.com/mrfoogles) for this fix [#41](https://github.com/rgab1508/PixelCraft/pull/41)
-
 ![Complex Pattern](https://user-images.githubusercontent.com/17960677/96028936-95ad6d00-0e77-11eb-8a8c-07caa0f2a8b5.jpg)
 
-## PWA Support
-
-This Web App is a Fully Compatible PWA and is installable.  
-
-![PWA Support](https://user-images.githubusercontent.com/17960677/96029402-3ef46300-0e78-11eb-8a54-d54b6dff458a.png)
-
-You can install it either from the Dropdown or using the "Add to Home Screen" Button From Options.  
 
 ## Some Pixel Arts Made with PixelCraft
 
